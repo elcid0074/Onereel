@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c_dark">#000000</color>
+    <color name="c_medium">#212121</color>
+    <color name="c_light">#303030</color>
+    <color name="c_highlight">#424242</color>
+    <color name="c_accent">#FF3D00</color>
+    <color name="c_divider">#12FFFFFF</color>
+
+    <color name="c_title_text">#FFFFFF</color>
+    <color name="c_content_text">#70FFFFFF</color>
+    <color name="c_hint_text">#50FFFFFF</color>
+
+</resources>
